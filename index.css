@@ -530,3 +530,28 @@ line-height: 21px;
 color: #FFFFFF;
 /* margin-top: 30px; */
 }
+/* -----------------------------responsive---------------------------------------- */
+@media (max-width:575px) {
+    .bezuprech3 {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        /* line-height: 21px; */
+        text-align: center;
+        color: #000000;
+        margin-top: 30px;
+    }
+    .moskva3{
+        font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+
+    }
+}
