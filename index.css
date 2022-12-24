@@ -33,6 +33,14 @@ width: 430px;
 .bezuprechniy{
 margin-top: 30px;
 padding-bottom: 25px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 34px;
+
+color: #000000;
+
 }
 .otpravit_d{
 width: 150px;
@@ -464,7 +472,7 @@ color: #000000;
 footer{
     background: #232323;
 }
-.list_iteam2{
+.list_iteam221{
     
 font-family: 'Arial';
 font-style: normal;
